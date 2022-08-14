@@ -1,0 +1,35 @@
+{
+    "data": {
+        "redeems": [{
+                "id": "0xfb9ac35558921b1feca273c1b5f4336ec092805700764ad5094767ddc33ee296",
+                "status": "Completed",
+                "userParachainAddress": "wdBg6oWLHw5Xd3WTjP71ZYFn7bQWbNWpEBrb3rJBhwb3AuBcV"
+            },
+            {
+                "id": "0x2f70855d13a98b8eab32252d4f0da63d7206501b1275c8309ae58671bcba2a2f",
+                "status": "Completed",
+                "userParachainAddress": "wdBg6oWLHw5Xd3WTjP71ZYFn7bQWbNWpEBrb3rJBhwb3AuBcV"
+            },
+            {
+                "id": "0xda768c592ed88a6277b19e56b24ac3bcd0bf2f6205949379c2f9075b194cca87",
+                "status": "Completed",
+                "userParachainAddress": "wdAE42j6vE7uTzKiFY1tJX4yC2DyUUeTNAkjGh5aTpUzfAw83"
+            },
+            {
+                "id": "0x4963edd5a3c286b07d6c051bf71841e4be4e77bd1f0435f2cca457f2aa8e253d",
+                "status": "Completed",
+                "userParachainAddress": "wdBiQZXAvkFS3v1653xXZPvKHyHHYzuU3Xt6GRHtDGdc7JDJ9"
+            },
+            {
+                "id": "0x5c8271670e0f222b8fd712d9e3dea7ec485a56264c5056cc9f65593f9c833883",
+                "status": "Pending",
+                "userParachainAddress": "wdCwFgoKxgrRq1ZpxS93iV2q5e5tmkT3Jw3GAr6kiEezvkbkS"
+            },
+            {
+                "id": "0xcbeb24a02afbb605860c635742b494d989a582e7cb4beb5332637ba230eecc1e",
+                "status": "Pending",
+                "userParachainAddress": "wdCwFgoKxgrRq1ZpxS93iV2q5e5tmkT3Jw3GAr6kiEezvkbkS"
+            }
+        ]
+    }
+}
